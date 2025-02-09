@@ -23,7 +23,7 @@ System Monitor Pro is a comprehensive and user-friendly system monitoring applic
    
 2. **Run the application:**
   ```bash
-  python main.py
+  python System Monitor Pro.py
   ```
 
 ## Usage
