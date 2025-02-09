@@ -1,0 +1,8 @@
+psutil==5.9.0
+customtkinter==5.1.2
+matplotlib==3.7.1
+Pillow==9.5.0
+requests==2.31.0
+boto3==1.28.0
+GPUtil==1.4.0
+plyer==2.1.0
